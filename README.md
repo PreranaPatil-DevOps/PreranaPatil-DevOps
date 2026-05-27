@@ -5,7 +5,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=36&center=true&vCenter=true&width=850&height=80&duration=4000&lines=Hey!+I'm+Prerana+Patil+👋;Telecom+Software+Engineer+💻;CSG+Singleview+%7C+Billing+Expert+🌟;CRM+%7C+DevOps+%7C+AI+Enthusiast+🤖;Production+Support+Specialist+⚡;Always+Building+%26+Learning+🔁" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=36&center=true&vCenter=true&width=900&height=80&duration=4000&lines=Hey!+I'm+Prerana+Patil+👋;Telecom+Software+Engineer+💻;CSG+Singleview+%7C+Billing+Expert+🌟;CRM+%7C+DevOps+%7C+AI+Enthusiast+🤖;Production+Support+Specialist+⚡;Always+Learning+and+Growing+🔁" />
 </h1>
 
 <h3 align="center">
@@ -15,31 +15,29 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Experience-6%2B%20Years-blueviolet?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Domain-Telecom%20IT-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Billing-CSG%20Singleview-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Billing%20%26%20CRM-orange?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Open%20To-Collaboration-pink?style=for-the-badge"/>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=preranapatil&label=Profile%20Views&color=blueviolet&style=flat"/>
-  <img src="https://img.shields.io/github/followers/preranapatil?label=Followers&style=flat&color=blue"/>
-  <img src="https://img.shields.io/github/stars/preranapatil?label=Stars&style=flat&color=yellow"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # 💫 About Me
 
-<img align="right" alt="coding" width="330" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif">
+<img align="right" alt="coding" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ✨ 6+ years of experience in Telecom IT Industry  
 🌟 Specialized in **CSG Singleview, Telecom Billing & CRM Systems**  
-💡 Passionate about solving production issues & system optimization  
+💡 Passionate about solving production issues & automation workflows  
 ⚡ Experienced in handling **P1/P2 incidents, deployments & hotfixes**  
 🛠 Strong expertise in **Shell Scripting, SQL, Linux & Monitoring Tools**  
-🤖 Exploring **AI, Automation, DevOps & Agentic AI workflows**  
-📈 Contributed across development, production support & release management  
-🎯 Focused on scalable, reliable and optimized telecom applications  
-🎥 Love travelling, watching vlogs & learning emerging technologies  
+🤖 Exploring **AI, DevOps, Automation & Agentic AI workflows**  
+📈 Worked across development, debugging, production support & release management  
+🎯 Focused on scalable, stable and optimized telecom applications  
+🎥 Love travelling, vlogs & exploring modern technologies  
 
 <br/>
 
@@ -65,18 +63,9 @@
 </a>
 </p>
 
-<p align="center">
-  <a href="mailto:Patilprerana27@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/preranapatil">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# ⚒️ Languages • Frameworks • Tools ⚒️
+# ⚒️ Tech Stack ⚒️
 
 <div align="center">
 
@@ -94,121 +83,84 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# ⚡ Core Skills & Expertise
+# 🚀 Skills & Expertise
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
+### 🌐 Telecom Billing & CRM
 
-## 🌐 Telecom & Billing
+<p>
+  <img src="https://img.shields.io/badge/CSG%20Singleview-6A5ACD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Convergent%20Billing-1E90FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Amdocs%20CRM-008080?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Amdocs%20Billing-2E8B57?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Customer%20Management%20GUI-FF69B4?style=for-the-badge"/>
+</p>
 
-```yaml
-✔ CSG Singleview 11 CM
-✔ Convergent Billing
-✔ Singleview CM
-✔ Amdocs Billing
-✔ Amdocs CRM
-✔ Customer Management GUI
-✔ Telecom Operations
-✔ Business Administration
-✔ Configuration Studio
-```
+---
 
-</td>
-<td width="50%">
+### 💻 Programming & Scripting
 
-## 💻 Programming & Scripting
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,mysql,postgresql,bash,linux" />
+</p>
 
-```yaml
-✔ SQL / PLSQL
-✔ Shell Scripting
-✔ EPM Coding
-✔ Core Java
-✔ Basic Python
-✔ HTML5 & CSS3
-✔ Unix / Linux
-✔ Automation Scripting
-✔ Debugging & RCA
-```
+<p>
+  <img src="https://img.shields.io/badge/EPM%20Coding-ff9800?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Automation-00bcd4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Debugging-8bc34a?style=for-the-badge"/>
+</p>
 
-</td>
-</tr>
+---
 
-<tr>
-<td width="50%">
+### ☁️ DevOps & Cloud
 
-## ☁️ DevOps & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,aws,azure,git,github,gitlab" />
+</p>
 
-```yaml
-✔ Docker
-✔ Kubernetes
-✔ Jenkins
-✔ AWS
-✔ Azure
-✔ Git & GitHub
-✔ CI/CD Basics
-✔ Deployment Support
-✔ Infrastructure Monitoring
-```
+<p>
+  <img src="https://img.shields.io/badge/CI%2FCD-673ab7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deployment-009688?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Monitoring-795548?style=for-the-badge"/>
+</p>
 
-</td>
-<td width="50%">
+---
 
-## 📊 Monitoring & Production Support
+### 📊 Monitoring & Production Support
 
-```yaml
-✔ Grafana
-✔ HP Diagnostic
-✔ AI Ops
-✔ SLA Monitoring
-✔ Incident Management
-✔ P1 / P2 Support
-✔ Hotfix Deployment
-✔ Log Analysis
-✔ Performance Optimization
-```
+<p>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HP%20Diagnostic-0078D7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI%20Ops-6A1B9A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SLA%20Monitoring-1E88E5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Incident%20Management-43A047?style=for-the-badge"/>
+</p>
 
-</td>
-</tr>
+---
 
-<tr>
-<td width="50%">
+### 🤖 AI & Productivity Tools
 
-## 🤖 AI & Productivity Tools
+<p>
+  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cursor%20AI-4B32C3?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-FF5722?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI%20Automation-00ACC1?style=for-the-badge"/>
+</p>
 
-```yaml
-✔ ChatGPT
-✔ GitHub Copilot
-✔ Cursor AI
-✔ Prompt Engineering
-✔ AI-assisted Development
-✔ Workflow Automation
-✔ Agentic AI Basics
-✔ Smart Productivity Tools
-```
+---
 
-</td>
-<td width="50%">
+### 🛠 Tools & Methodologies
 
-## 🛠 Tools & Methodologies
-
-```yaml
-✔ Jira
-✔ Azure DevOps (ADO)
-✔ Helix
-✔ Postman
-✔ VS Code
-✔ GitLab
-✔ Agile Methodology
-✔ Scrum Practices
-✔ Team Collaboration
-```
-
-</td>
-</tr>
-</table>
+<p>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Helix-512BD4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Agile-009688?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Scrum-6A1B9A?style=for-the-badge"/>
+</p>
 
 </div>
 
