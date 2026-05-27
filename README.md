@@ -5,39 +5,41 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=34&center=true&vCenter=true&width=750&height=70&duration=4000&lines=Hey!+I'm+Prerana+Patil+👋;Telecom+Software+Engineer+💻;CSG+Singleview+Specialist+🌟;Billing+%7C+CRM+%7C+DevOps+%7C+AI+🤖;Production+Support+Expert+⚡;Always+Learning+New+Things+🔁" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=36&center=true&vCenter=true&width=850&height=80&duration=4000&lines=Hey!+I'm+Prerana+Patil+👋;Telecom+Software+Engineer+💻;CSG+Singleview+%7C+Billing+Expert+🌟;CRM+%7C+DevOps+%7C+AI+Enthusiast+🤖;Production+Support+Specialist+⚡;Always+Building+%26+Learning+🔁" />
 </h1>
 
 <h3 align="center">
-Experienced Software Engineer • Telecom Billing Specialist • CRM Developer • DevOps & AI Enthusiast 🇮🇳
+💫 Experienced Software Engineer • Telecom Billing Specialist • CRM Developer • DevOps & AI Enthusiast 🇮🇳
 </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Experience-6%2B%20Years-blueviolet?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Telecom-Billing-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CRM-Specialist-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Domain-Telecom%20IT-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Billing-CSG%20Singleview-orange?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Open%20To-Collaboration-pink?style=for-the-badge"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=preranapatil&label=Profile%20Views&color=blueviolet&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=preranapatil&label=Profile%20Views&color=blueviolet&style=flat"/>
+  <img src="https://img.shields.io/github/followers/preranapatil?label=Followers&style=flat&color=blue"/>
+  <img src="https://img.shields.io/github/stars/preranapatil?label=Stars&style=flat&color=yellow"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # 💫 About Me
 
-<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="330" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif">
 
-✨ 6+ years of experience in the Telecom IT Industry  
+✨ 6+ years of experience in Telecom IT Industry  
 🌟 Specialized in **CSG Singleview, Telecom Billing & CRM Systems**  
-💡 Passionate about solving production issues and building efficient solutions  
+💡 Passionate about solving production issues & system optimization  
 ⚡ Experienced in handling **P1/P2 incidents, deployments & hotfixes**  
 🛠 Strong expertise in **Shell Scripting, SQL, Linux & Monitoring Tools**  
 🤖 Exploring **AI, Automation, DevOps & Agentic AI workflows**  
-📈 Worked across development, support, debugging & release management  
-🎯 Focused on scalable, stable and optimized telecom applications  
-🎥 Love travelling, watching vlogs & learning new technologies  
+📈 Contributed across development, production support & release management  
+🎯 Focused on scalable, reliable and optimized telecom applications  
+🎥 Love travelling, watching vlogs & learning emerging technologies  
 
 <br/>
 
@@ -74,7 +76,7 @@ Experienced Software Engineer • Telecom Billing Specialist • CRM Developer �
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# ⚒️ Tech Stack ⚒️
+# ⚒️ Languages • Frameworks • Tools ⚒️
 
 <div align="center">
 
@@ -316,11 +318,7 @@ Experienced Software Engineer • Telecom Billing Specialist • CRM Developer �
 
 <img width="390" src="https://streak-stats.demolab.com/?user=preranapatil&theme=react&border_radius=10"/>
 
-<br/>
-
-<img width="390" src="https://github-readme-stats.vercel.app/api?username=preranapatil&show_icons=true&theme=react"/>
-
-<br/>
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=preranapatil&show_icons=true&theme=react&rank_icon=github"/>
 
 <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preranapatil&layout=compact&theme=react"/>
 
@@ -332,6 +330,14 @@ Experienced Software Engineer • Telecom Billing Specialist • CRM Developer �
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=preranapatil&theme=react-dark&hide_border=true&area=true"/>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+# 🧠 Daily Development Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
