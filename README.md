@@ -5,7 +5,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=34&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hey!+I'm+Prerana+Patil+👋;Telecom+Software+Engineer+💻;CSG+Singleview+Specialist+🌟;Billing+%7C+CRM+%7C+DevOps+%7C+AI+🤖;Production+Support+Expert+⚡;Always+Learning+New+Things+🔁" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=34&center=true&vCenter=true&width=750&height=70&duration=4000&lines=Hey!+I'm+Prerana+Patil+👋;Telecom+Software+Engineer+💻;CSG+Singleview+Specialist+🌟;Billing+%7C+CRM+%7C+DevOps+%7C+AI+🤖;Production+Support+Expert+⚡;Always+Learning+New+Things+🔁" />
 </h1>
 
 <h3 align="center">
@@ -14,9 +14,13 @@ Experienced Software Engineer • Telecom Billing Specialist • CRM Developer �
 
 <p align="center">
   <img src="https://img.shields.io/badge/Experience-6%2B%20Years-blueviolet?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Domain-Telecom%20IT-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Focus-Billing%20%26%20CRM-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Telecom-Billing-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CRM-Specialist-orange?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Open%20To-Collaboration-pink?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=preranapatil&label=Profile%20Views&color=blueviolet&style=flat" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -25,15 +29,15 @@ Experienced Software Engineer • Telecom Billing Specialist • CRM Developer �
 
 <img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-✨ 6+ years of experience in the Telecom IT industry  
-🌟 Specialized in **CSG Singleview, Convergent Billing & CRM Systems**  
-💡 Passionate about solving real-time production issues & automation  
-⚡ Experienced in handling **P1/P2 incidents, hotfixes & SLA management**  
-🛠 Strong hands-on experience with **Shell Scripting, SQL, Linux & Monitoring Tools**  
-🤖 Exploring **AI, DevOps, Automation & Agentic AI workflows**  
-📈 Contributed across development, support, debugging & deployment lifecycles  
-🎯 Focused on building scalable and reliable telecom solutions  
-🎥 Love travelling, watching vlogs & experimenting with creative content  
+✨ 6+ years of experience in the Telecom IT Industry  
+🌟 Specialized in **CSG Singleview, Telecom Billing & CRM Systems**  
+💡 Passionate about solving production issues and building efficient solutions  
+⚡ Experienced in handling **P1/P2 incidents, deployments & hotfixes**  
+🛠 Strong expertise in **Shell Scripting, SQL, Linux & Monitoring Tools**  
+🤖 Exploring **AI, Automation, DevOps & Agentic AI workflows**  
+📈 Worked across development, support, debugging & release management  
+🎯 Focused on scalable, stable and optimized telecom applications  
+🎥 Love travelling, watching vlogs & learning new technologies  
 
 <br/>
 
@@ -61,7 +65,7 @@ Experienced Software Engineer • Telecom Billing Specialist • CRM Developer �
 
 <p align="center">
   <a href="mailto:Patilprerana27@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/preranapatil">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -74,7 +78,7 @@ Experienced Software Engineer • Telecom Billing Specialist • CRM Developer �
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,mysql,postgresql,mongodb" />
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,mysql,postgresql,mongodb" />
 
 <br/><br/>
 
@@ -88,62 +92,123 @@ Experienced Software Engineer • Telecom Billing Specialist • CRM Developer �
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# 💻 Core Skills
+# ⚡ Core Skills & Expertise
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+## 🌐 Telecom & Billing
 
 ```yaml
-Telecom & Billing:
-  - CSG Singleview 11 CM
-  - Singleview CM
-  - Convergent Billing
-  - Customer Management GUI
-  - Singleview Business Administration
-  - Singleview Configuration Studio
-  - Amdocs Billing
-  - Amdocs CRM
-
-Programming & Scripting:
-  - SQL / PLSQL
-  - Shell Scripting
-  - EPM Coding
-  - Core Java
-  - Basic Python
-  - HTML5 & CSS3
-  - Unix / Linux
-
-DevOps & Cloud:
-  - Docker
-  - Kubernetes
-  - Jenkins
-  - AWS
-  - Azure
-  - CI/CD Basics
-  - Git & GitHub
-
-Monitoring & Support:
-  - Grafana
-  - HP Diagnostic
-  - AI Ops
-  - SLA Monitoring
-  - Incident Management
-  - Root Cause Analysis
-  - Production Support
-
-AI & Productivity:
-  - ChatGPT
-  - GitHub Copilot
-  - Cursor AI
-  - Prompt Engineering
-  - AI-assisted Development
-  - Automation Workflows
-
-Tools & Platforms:
-  - Jira
-  - Azure DevOps (ADO)
-  - Helix
-  - Postman
-  - VS Code
-  - ServiceNow
+✔ CSG Singleview 11 CM
+✔ Convergent Billing
+✔ Singleview CM
+✔ Amdocs Billing
+✔ Amdocs CRM
+✔ Customer Management GUI
+✔ Telecom Operations
+✔ Business Administration
+✔ Configuration Studio
 ```
+
+</td>
+<td width="50%">
+
+## 💻 Programming & Scripting
+
+```yaml
+✔ SQL / PLSQL
+✔ Shell Scripting
+✔ EPM Coding
+✔ Core Java
+✔ Basic Python
+✔ HTML5 & CSS3
+✔ Unix / Linux
+✔ Automation Scripting
+✔ Debugging & RCA
+```
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## ☁️ DevOps & Cloud
+
+```yaml
+✔ Docker
+✔ Kubernetes
+✔ Jenkins
+✔ AWS
+✔ Azure
+✔ Git & GitHub
+✔ CI/CD Basics
+✔ Deployment Support
+✔ Infrastructure Monitoring
+```
+
+</td>
+<td width="50%">
+
+## 📊 Monitoring & Production Support
+
+```yaml
+✔ Grafana
+✔ HP Diagnostic
+✔ AI Ops
+✔ SLA Monitoring
+✔ Incident Management
+✔ P1 / P2 Support
+✔ Hotfix Deployment
+✔ Log Analysis
+✔ Performance Optimization
+```
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## 🤖 AI & Productivity Tools
+
+```yaml
+✔ ChatGPT
+✔ GitHub Copilot
+✔ Cursor AI
+✔ Prompt Engineering
+✔ AI-assisted Development
+✔ Workflow Automation
+✔ Agentic AI Basics
+✔ Smart Productivity Tools
+```
+
+</td>
+<td width="50%">
+
+## 🛠 Tools & Methodologies
+
+```yaml
+✔ Jira
+✔ Azure DevOps (ADO)
+✔ Helix
+✔ Postman
+✔ VS Code
+✔ GitLab
+✔ Agile Methodology
+✔ Scrum Practices
+✔ Team Collaboration
+```
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -158,14 +223,15 @@ Tools & Platforms:
 - Digicel Pacific
 
 ### ✅ Key Contributions
-✔ Designed and developed core framework components for Singleview  
-✔ Automated operational tasks using Shell & SQL scripts  
-✔ Worked on telecom billing operations and customer management systems  
-✔ Resolved high-priority production incidents within SLA timelines  
-✔ Delivered user stories and production hotfixes efficiently  
-✔ Conducted stakeholder demos & technical walkthroughs  
+
+✔ Designed and developed framework components for Singleview systems  
+✔ Automated operational tasks using Shell & SQL scripting  
+✔ Worked on telecom billing and customer management operations  
+✔ Resolved critical production incidents within SLA timelines  
+✔ Delivered JIRA/ADO user stories and production hotfixes  
+✔ Conducted demos and technical walkthroughs for stakeholders  
 ✔ Collaborated with QA and business teams for issue resolution  
-✔ Troubleshot provisioning, billing & customer account issues  
+✔ Troubleshot billing, provisioning & backend application issues  
 
 ---
 
@@ -176,11 +242,12 @@ Tools & Platforms:
 - 3 UK Customer Relationship Management
 
 ### ✅ Key Contributions
-✔ Developed CRM frameworks using Java technologies  
-✔ Delivered end-to-end JIRA user stories  
-✔ Handled critical P1/P2 incidents  
-✔ Implemented hotfixes & production fixes  
-✔ Improved application stability & performance  
+
+✔ Developed Java-based CRM frameworks  
+✔ Delivered end-to-end user stories from JIRA  
+✔ Handled critical P1/P2 production incidents  
+✔ Implemented urgent hotfixes and production fixes  
+✔ Improved application stability and performance  
 
 ---
 
@@ -191,9 +258,10 @@ Tools & Platforms:
 - 3 Ireland Customer Relationship Management
 
 ### ✅ Key Contributions
+
 ✔ Resolved CRM application issues across environments  
-✔ Maintained SLA compliance and ticket resolutions  
-✔ Performed system cleanup & monitoring activities  
+✔ Maintained SLA compliance and ticket resolution  
+✔ Performed system cleanup and monitoring activities  
 ✔ Investigated recurring automation and billing issues  
 
 ---
@@ -205,26 +273,29 @@ Tools & Platforms:
 - Online Doctor Appointment System
 
 ### ✅ Key Contributions
+
 ✔ Developed web application using Java & MySQL  
 ✔ Learned J2EE technologies and database concepts  
-✔ Improved communication & software engineering practices  
+✔ Improved software engineering and communication skills  
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# 🏆 Certifications & Achievements
+# 🏆 Achievements & Certifications
 
 🏅 Successfully managed multiple telecom production projects  
+
 🏅 Internal certifications in:
 - Python
 - SQL
 - Unix
 - Java
 
-🏅 Strong expertise in:
+🏅 Expertise in:
 - Production Support
 - Telecom Billing Operations
 - Incident Management
-- Debugging & RCA
+- Root Cause Analysis
+- Application Monitoring
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -265,12 +336,12 @@ Tools & Platforms:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# ✨ Fun Facts
+# 🌸 Fun Facts
 
 ☕ Coffee + Debugging = Productivity  
 🎥 Love travel vlogs & tech content  
 🤖 Curious about AI & future technologies  
-🌸 Always exploring new tools and workflows  
+🌟 Always exploring new tools and workflows  
 🎯 Believe in continuous learning & self-growth  
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
