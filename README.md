@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=preranapatil.preranapatil" />
 
-<img width="1128" height="376" alt="Prerana Patil" src="https://github.com/preranapatil/preranapatil/blob/main/Prerana Patil.png"/>
+<img width="1128" height="376" alt="prerana" src="https://github.com/preranapatil/preranapatil/blob/main/prerana.png"/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
