@@ -1,0 +1,45 @@
+name: Generate GitHub Profile README
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate GitHub Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: PreranaPatil-DevOps
+
+          template: classic
+          base: header, activity, community, repositories, metadata
+
+          config_timezone: Asia/Kolkata
+
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_languages_indepth: yes
+
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          plugin_stars: yes
+          plugin_followup: yes
+          plugin_topics: yes
+
+      - name: Commit & Push Metrics
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update github metrics"
